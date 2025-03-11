@@ -84,6 +84,7 @@ kubernetes==31.0.0
 lxml==5.3.1
 markdown-it-py==3.0.0
 MarkupSafe 
+mkl-service==2.4.2
 matplotlib==3.9.4
 matplotlib-inline==0.1.7
 mdurl==0.1.2
@@ -149,7 +150,6 @@ python-dateutil==2.9.0.post0
 python-dotenv 
 python-json-logger==3.2.1
 pytz==2025.1
-pywin32==308
 pywinpty==2.0.14
 PyYAML 
 pyzmq==26.2.0
