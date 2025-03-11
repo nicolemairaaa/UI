@@ -88,9 +88,6 @@ matplotlib==3.9.4
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.1.0
-mkl-service==2.4.0
-mkl_fft 
-mkl_random
 mmh3==5.0.1
 monotonic==1.6
 mpmath 
